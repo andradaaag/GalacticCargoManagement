@@ -1,0 +1,37 @@
+[
+{
+"id":1,
+"name":"Star Destroyer",
+"speed":750,
+"type":"C",
+"maxCargoWeight":70000
+},
+{
+"id":2,
+"name":"Millenium Falcon",
+"speed":1500,
+"type":"C",
+"maxCargoWeight":25000
+},
+{
+"id":3,
+"name":"TIE Fighter",
+"speed":2000,
+"type":"A",
+"maxCargoWeight":100
+},
+{
+"id":4,
+"name":"X-Wing",
+"speed":1500,
+"type":"B",
+"maxCargoWeight":3000
+},
+{
+"id":5,
+"name":"Death Star",
+"speed":300,
+"type":"D",
+"maxCargoWeight":200000
+}
+]

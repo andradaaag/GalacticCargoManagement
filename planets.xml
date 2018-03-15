@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<planets>
+   <planet>
+      <distance>8000</distance>
+      <id>1</id>
+      <name>Corellia</name>
+   </planet>
+   <planet>
+      <distance>20000</distance>
+      <id>2</id>
+      <name>Coruscant</name>
+   </planet>
+   <planet>
+      <distance>40000</distance>
+      <id>3</id>
+      <name>Dantooine</name>
+   </planet>
+   <planet>
+      <distance>10000</distance>
+      <id>4</id>
+      <name>Hoth</name>
+   </planet>
+   <planet>
+      <distance>30000</distance>
+      <id>5</id>
+      <name>Jakku</name>
+   </planet>
+   <planet>
+      <distance>100000</distance>
+      <id>6</id>
+      <name>Naboo</name>
+   </planet>
+</planets>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<characters>
+   <character>
+      <id>1</id>
+      <name>Han Solo</name>
+      <shipsType>
+         <shipType>A</shipType>
+         <shipType>B</shipType>
+         <shipType>C</shipType>
+      </shipsType>
+   </character>
+   <character>
+      <id>2</id>
+      <name>Yoda</name>
+      <shipsType />
+   </character>
+   <character>
+      <id>3</id>
+      <name>Luke Skywalker</name>
+      <shipsType>
+         <shipType>B</shipType>
+         <shipType>C</shipType>
+      </shipsType>
+   </character>
+   <character>
+      <id>4</id>
+      <name>Darth Vader</name>
+      <shipsType>
+         <shipType>D</shipType>
+      </shipsType>
+   </character>
+   <character>
+      <id>5</id>
+      <name>Kylo Ren</name>
+      <shipsType>
+         <shipType>A</shipType>
+      </shipsType>
+   </character>
+   <character>
+      <id>6</id>
+      <name>R2D2</name>
+      <shipsType>
+         <shipType>A</shipType>
+         <shipType>B</shipType>
+         <shipType>C</shipType>
+      </shipsType>
+   </character>
+   <character>
+      <id>7</id>
+      <name>Chewbaca</name>
+      <shipsType>
+         <shipType>B</shipType>
+         <shipType>C</shipType>
+      </shipsType>
+   </character>
+</characters>

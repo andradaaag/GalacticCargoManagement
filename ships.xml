@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ships>
+   <ship>
+      <id>1</id>
+      <maxCargoWeight>70000</maxCargoWeight>
+      <name>Star Destroyer</name>
+      <speed>750</speed>
+      <type>C</type>
+   </ship>
+   <ship>
+      <id>2</id>
+      <maxCargoWeight>25000</maxCargoWeight>
+      <name>Millenium Falcon</name>
+      <speed>1500</speed>
+      <type>C</type>
+   </ship>
+   <ship>
+      <id>3</id>
+      <maxCargoWeight>100</maxCargoWeight>
+      <name>TIE Fighter</name>
+      <speed>2000</speed>
+      <type>A</type>
+   </ship>
+   <ship>
+      <id>4</id>
+      <maxCargoWeight>3000</maxCargoWeight>
+      <name>X-Wing</name>
+      <speed>1500</speed>
+      <type>B</type>
+   </ship>
+   <ship>
+      <id>5</id>
+      <maxCargoWeight>200000</maxCargoWeight>
+      <name>Death Star</name>
+      <speed>300</speed>
+      <type>D</type>
+   </ship>
+</ships>
